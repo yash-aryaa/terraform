@@ -1,3 +1,4 @@
+(https://github.com/yash-aryaa/terraform/assets/85472453/31163499-67bc-4710-837a-d0494c42ab44)
 Step 1: Install Terraform
 	1.	Visit the Terraform website and download the appropriate version for your operating system.
 	2.	Follow the installation instructions provided for your operating system.
